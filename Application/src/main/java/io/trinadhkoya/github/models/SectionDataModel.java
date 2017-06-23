@@ -1,12 +1,14 @@
+/*
+ * Copyright (c) 2010-2017 TRINADH KOYA, Inc. http://trinadhkoya.github.io
+ */
+
 package io.trinadhkoya.github.models;
 
 import java.util.ArrayList;
 
-/**
- * Created by pratap.kesaboyina on 30-11-2015.
- */
-public class SectionDataModel {
 
+
+public class SectionDataModel {
 
 
     private String headerTitle;
@@ -16,11 +18,11 @@ public class SectionDataModel {
     public SectionDataModel() {
 
     }
+
     public SectionDataModel(String headerTitle, ArrayList<SingleItemModel> allItemsInSection) {
         this.headerTitle = headerTitle;
         this.allItemsInSection = allItemsInSection;
     }
-
 
 
     public String getHeaderTitle() {

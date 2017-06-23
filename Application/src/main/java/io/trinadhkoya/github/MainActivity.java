@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2010-2017 TRINADH KOYA, Inc. http://trinadhkoya.github.io
+ */
+
 package io.trinadhkoya.github;
 
 import android.os.Bundle;

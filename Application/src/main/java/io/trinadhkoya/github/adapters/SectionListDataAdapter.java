@@ -1,8 +1,9 @@
+/*
+ * Copyright (c) 2010-2017 TRINADH KOYA, Inc. http://trinadhkoya.github.io
+ */
+
 package io.trinadhkoya.github.adapters;
 
-/**
- * Created by pratap.kesaboyina on 24-12-2014.
- */
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;

@@ -1,8 +1,10 @@
+/*
+ * Copyright (c) 2010-2017 TRINADH KOYA, Inc. http://trinadhkoya.github.io
+ */
+
 package io.trinadhkoya.github.models;
 
-/**
- * Created by pratap.kesaboyina on 01-12-2015.
- */
+
 public class SingleItemModel {
 
 
